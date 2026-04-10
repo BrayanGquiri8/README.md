@@ -1,7 +1,7 @@
 # README.md
 # 🚀 Data Analyst & Business Strategy Expert | Lean Six Sigma Black Belt
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/brayan-quiriarte-data-scientist)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brayan-quiriarte-data-scientist)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:brayanquiriarte@gmail.com)
 
 I bring a unique and powerful blend of **Materials Science, Lean Six Sigma Black Belt methodology, and Advanced Data Analytics**. My superpower is translating messy, complex databases into actionable strategies that directly impact the bottom line—whether that's predicting future sales, rationalizing a retail product portfolio, or optimizing chemical processes.
